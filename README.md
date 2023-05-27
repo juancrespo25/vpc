@@ -1,0 +1,1 @@
+Archivos necesarios para crear la vpc desde terraform, con la configuracion que esta en github
